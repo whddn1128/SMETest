@@ -29,7 +29,7 @@ public class Ap {
 				j = 0;
 
 		}
-	}
+	}//hi
 	
 	public int getResult()
 	{
